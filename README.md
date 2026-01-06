@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="116" src="https://media1.tenor.com/m/a8K93X-8sSEAAAAC/mashle-dance-mashle-s2.gif"  />
+<img align="right" height="96" src="https://media1.tenor.com/m/a8K93X-8sSEAAAAC/mashle-dance-mashle-s2.gif"  />
 
 ###
 
@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <a href="/casad1as" target="_blank">
+  <a href="casad1as" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:langrizkie@gmail.com" target="_blank">
